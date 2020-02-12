@@ -59,13 +59,14 @@ module.exports = {
       { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#5bbad5" }
     ],
     ["meta", { name: "msapplication-TileColor", content: "#da532c" }],
-    ["meta", { name: "theme-color", content: "#ffffff" }]
-  ],[
-    "script",
-    {
-      "data-ad-client": "ca-pub-9166276194203789",
-      async: true,
-      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-    }
+    ["meta", { name: "theme-color", content: "#ffffff" }],
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-9166276194203789",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      }
+    ]
   ]
 };
