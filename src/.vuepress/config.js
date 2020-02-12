@@ -2,6 +2,7 @@ const currentDateUTC = new Date().toUTCString();
 
 module.exports = {
   title: "akarisvisa",
+  description: "A Travel Management and Visa Consultantancy Experts",
   dest: "./public",
   themeConfig: {
     repo: "https://wwww.github.com",
@@ -32,7 +33,9 @@ module.exports = {
       "vuepress-plugin-rss",
       {
         base_url: "/",
-        site_url: "https://vuepressblog.org",
+        site_url: "https://akarisvisa.com", // required
+        copyright: "2020 akarisvisa",
+
         filter: frontmatter => frontmatter.date <= new Date(currentDateUTC),
         count: 20
       }
