@@ -13,8 +13,8 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Blog", link: "/blog/" },
-      { text: "Archive", link: "/archive/" },
-      { text: "RSS Feed", link: "/rss.xml/" }
+      { text: "Archive", link: "/archive/" }
+      //{ text: "RSS Feed", link: "/rss.xml/" }
     ],
     logo: "/logo.png",
     docsDir: "src",
