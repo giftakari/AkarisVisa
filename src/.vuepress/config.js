@@ -7,7 +7,7 @@ module.exports = {
   themeConfig: {
     repo: "https://wwww.github.com",
     repoLabel: "Repo",
-    editLinks: true,
+    editLinks: false,
     editLinkText: "Found a bug? Help me improve this page!",
     nav: [
       { text: "Home", link: "/" },
