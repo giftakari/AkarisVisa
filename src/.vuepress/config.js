@@ -5,8 +5,8 @@ module.exports = {
   description: "A Travel Management and Visa Consultantancy Experts",
   dest: "./public",
   themeConfig: {
-    repo: "https://wwww.github.com",
-    repoLabel: "Repo",
+    repo: "./more...",
+    repoLabel: "More",
     editLinks: false,
     editLinkText: "Found a bug? Help me improve this page!",
     nav: [
