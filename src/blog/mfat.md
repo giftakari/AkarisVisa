@@ -9,7 +9,7 @@ tags:
   - Scholarship
 ---
 
-### NEW ZEALAND SCHOLARSHIP APPLICATKION
+### NEW ZEALAND SCHOLARSHIP APPLICATION
 
 The New Zealand Government is pleased to advise that the New Zealand Scholarships application window for year 2021 studies opened on 1 February 2020 and will close on 28 February 2020 at 12:00 midday NZ Time. The New Zealand Ministry of Foreign Affairs and Trade is offering Full Post-Graduate Scholarships (Post Graduate Diploma, Masters and PhDs) to international students who wish to study at any of the eleven New Zealand universities and education institutions in 2021. Full tuition fees, return economy air travel, travel and medical insurance and stipend towards basic living costs will be covered by the Scholarship. Sectors of study include, but not limited to: Agriculture, Food Security, Climate Change and Resilience, Renewable Energy and Good Governance. Full set of recommended courses is available on the scholarships website. We would therefore like to invite eligible candidates to apply for postgraduate study opportunities in New Zealand.
 
